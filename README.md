@@ -1,4 +1,3 @@
-# linglong-krita
 ## 1.项目名称
 Krita软件提交迁移
 
